@@ -178,3 +178,4 @@ help until
 ./fortune.project
 ./fortune.sh
 help [[ expression ]]
+[[ hello == hello ]]
