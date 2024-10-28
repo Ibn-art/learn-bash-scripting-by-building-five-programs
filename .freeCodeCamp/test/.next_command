@@ -199,3 +199,4 @@ chmod +x questionnaire.sh
 chmod +x bingo.sh
 chmod +x countdown.sh
 chmod +x fortune.sh
+./questionnaire.sh
