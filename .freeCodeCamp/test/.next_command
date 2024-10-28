@@ -139,3 +139,13 @@ echo $(( J bingo.sh countdown.sh questionnaire.sh questionnare.sh 5 + 25 ))
 echo $J
 declare -p
 declare -p J
+declare -p $RANDOM
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+declare -p $RANDOM
+declare -p RANDOM
